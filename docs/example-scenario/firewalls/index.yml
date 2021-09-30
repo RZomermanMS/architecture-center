@@ -1,6 +1,6 @@
 ### YamlMime:Architecture
 metadata:
-  title: Azure Firewall architecture overview
+  title: Azure NVA Firewall architecture overview
   description: Use proven customer engagement practices to design firewalls and proxies in Azure for traditional infrastructure workloads.
   author: RZomerman
   ms.date: 05/15/2020
